@@ -16,7 +16,7 @@ public class CalculatorTest {
     }
 
     @Test
-    public void testSum() {
+    public void testSum2() {
         assertThat(Calculator.sum(3, 2)).isEqualTo(4);
     }
 }
